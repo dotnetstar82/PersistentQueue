@@ -5,4 +5,4 @@ This distribution has been updated to run on .Net 4, use Nuget for dependency ma
 
 #Licensed
 
-Ryan Alba
+Jason Alava
